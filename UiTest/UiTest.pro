@@ -23,9 +23,13 @@ HEADERS += \
     mainwindow.h
 
 FORMS += \
+    change_position_dialog.ui \
+    change_salary_dialog.ui \
     mainmenu.ui \
     mainwindow.ui \
-    manage_employees.ui
+    manage_employees.ui \
+    new_employee.ui \
+    salary_position.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
