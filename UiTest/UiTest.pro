@@ -25,6 +25,7 @@ HEADERS += \
 FORMS += \
     change_position_dialog.ui \
     change_salary_dialog.ui \
+    charts.ui \
     mainmenu.ui \
     mainwindow.ui \
     manage_employees.ui \
